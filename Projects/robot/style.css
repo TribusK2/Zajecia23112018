@@ -1,0 +1,15 @@
+img {
+	width: 50px;
+}
+#face {
+	width: 400px;
+}
+#eyes1{
+	width: 150px; position: absolute; left: 180px; top: 200px;
+}
+#hat{
+	width: 300px; position: absolute; left: 60px; top: 10px;
+}
+#mouth2{
+	width: 200px; position: absolute; left: 130px; top: 300px;
+}

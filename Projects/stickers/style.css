@@ -1,0 +1,56 @@
+body {
+   background: white;
+}
+
+.sticker {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 5px;
+}
+#coding {
+  font-size: 40px; font-weight: bold; font-family: "Courier New";
+  background: linear-gradient(red, magenta);
+  padding: 30px;
+  border-radius: 20px;
+
+}
+.web {
+  font-size: 48px; font-family: Impact; text-shadow: 2px 2px gray;
+  background: radial-gradient( yellow, orange, red );
+  padding:  30px; border-radius: 100px;
+}
+#own {
+  font-size: 50px; 
+  background: linear-gradient( black, grey, yellow, green, red, blue );
+}
+#firerobot{
+  background: linear-gradient(to bottom left, white, yellow, tomato );
+  border: 10px dashed tomato;
+  outline: 4px solid tomato;
+  outline-offset: 2px;
+  position: relative;
+}
+#firetext{
+  font-size: 30px;
+  font-family: Impact;
+  position: absolute;
+  left: 10px;
+  bottom: 60px;
+  transform: rotate(-15deg);
+}
+#greenrobot{
+  background: linear-gradient(to right, green, yellow);
+  border: 5px solid black;
+  border-radius: 20px;
+}
+#greentext{
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 150px;
+}
+#ran{
+  background: radial-gradient(white, yellow, orange, red )
+}
